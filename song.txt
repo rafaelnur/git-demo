@@ -1,1 +1,2 @@
-first line of the song
+first line in the song
+second line in the song
